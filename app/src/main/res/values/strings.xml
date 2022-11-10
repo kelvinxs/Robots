@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Robots!</string>
+    <string name="next_round">Next round</string>
+    <string name="back_settings">Back to settings</string>
+    <string name="score_value">Score: %1$d</string>
+    <string name="start_game">Start Game</string>
+    <string name="row_count">Row count: %1$d</string>
+    <string name="column_count">Column count: %1$d</string>
+    <string name="players_count">Players count: %1$d</string>
+    <string name="allow_players_see_distance">Allow players to see the distance from the target on adjacent blocks</string>
+    <string name="allow_players_see_target_adjacent">Let player see if the target is on any adjacent block</string>
+</resources>

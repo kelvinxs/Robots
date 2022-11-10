@@ -1,0 +1,3 @@
+- Creates a game grid only seen by the game controller
+- The game controller can give different types of grid (showing what's nearby it's current position, or the entire grid but only with the path taken, or showing the distance from the objective on the nearby itens
+- Each robot can implements it's own IA to determine their next move and returns to the game their move
